@@ -536,11 +536,11 @@
 }
 
 .service-area-box {
-  width: 90vw;
+  width: 100%;
 }
 
 .service-d-areas {
-  width: 20vw;
+  width: 22vw;
   height: 1.7rem;
 }
 .service-area h4 {
@@ -565,7 +565,7 @@
 .n-service-box img{
   width: 90%;
 }
- 
+
 }
 
   
