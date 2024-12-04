@@ -752,7 +752,7 @@ nested pages-------------- */
   background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.5;
+    /* opacity: 0.5; */
    
 }
 .cont-header h1 {

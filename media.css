@@ -334,11 +334,11 @@
 
     /*------- blog------- */
     .blog-section {
-      width: 95%;
+      width: 100%;
     }
 
     .blog-card {
-      width: 45%; /* Two blogs per row for tablets */
+      width: 75%; /* Two blogs per row for tablets */
       margin-top: 30px;
     }
     .blog-card h3 {
