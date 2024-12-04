@@ -1242,6 +1242,9 @@ nested pages-------------- */
   width: 80%;
   margin: auto;
 }
+.blog-section h2 {
+  font-size: 2.5vw;
+}
 .blog-container {
   display: flex;
   flex-wrap: wrap;
