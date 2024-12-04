@@ -143,7 +143,7 @@ a.icons:hover {
   color: #000;
 }
 
-.btn {
+.btn-round {
   background-color: #5aa445;
   color: #fff;
   text-decoration: none;
@@ -153,7 +153,7 @@ a.icons:hover {
   transition: background-color 0.3s;
 }
 
-.btn:hover {
+.btn-round:hover {
   background-color: #003a59;
   color: #fff;
 }
