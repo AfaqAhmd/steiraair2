@@ -346,7 +346,7 @@ a.icons:hover {
   background: rgba(255, 255, 255, 0.1);
   padding: 20px;
   border-radius: 8px;
-  flex: 1; /* Ensure both cards stretch equally */
+  flex: 0.3; /* Ensure both cards stretch equally */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
