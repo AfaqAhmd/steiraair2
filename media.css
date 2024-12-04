@@ -359,34 +359,34 @@
     .footer-column {
       width: 80%;
     }
-    
+  
     .cont-with-img{
       display: flex;
       flex-direction: column;
+      padding: 2vw 3vw;
+      margin: auto;
     }
     .cont-with-img-right{
-      width: 90%;
+      width: 100%;
     }
 
 
     .cont-big-img{
       display: flex;
       flex-direction: column;
-      width: 80%;
+      width: 90%;
     }
 
     .cont-big-img-nest {
-      width: 80vw;
+      width: 90vw;
     }
     .cont-big-img-nest2 img{
-      width: 80vw;
+      width: 90vw;
       height: 25vh;
     }
    
 
-    .indoor-cont{
-      width: 90%;
-    }
+    
 
     .cont-boxx-main {
     display: flex;
@@ -398,20 +398,41 @@
       flex-direction: column;
     }
 
+    .cont-banner {
+    padding: 2vw 2vw;
+    }
     .cont-banner h2 {
       font-size: 1.5rem;
+    }
+    .cont-banner-green {
+      padding: 2vw 2vw;
+    }
+    .cont-banner-green h2 {
+      font-size: 1.7rem;
     }
     .cont-box {
       width: 80vw;
     }
     .cont-banner-upper{
       padding-top: 9vh;
+      padding: 2vw 2vw;
     }
     .cont-banner-upper h2 {
       font-size: 1.2rem;
     }
     .cont-with-img-main h2 {
       font-size: 1.3rem;
+    }
+    
+
+    .cont-with-img-main2 {
+      margin: auto;
+      padding: 2vw 2vw;
+    }
+    
+    
+    .cont-with-img-main2 h2 {
+      font-size: 1.7rem;
     }
 
     .cont-boxx-main {
@@ -456,9 +477,13 @@
     .indoor-cont-points {
       display: flex;
       flex-direction: column;
+      padding: 2vw 3vw;
     }
     .indoor-cont-points h2 {
       font-size: 1.6rem;
+    }
+    .indoor-cont{
+      width: 100%;
     }
 
     .indoor-cont img{
