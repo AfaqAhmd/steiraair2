@@ -23,6 +23,7 @@
 
 p {
   margin-top: 0;
+  margin: 0;
 }
 .header {
   font-family: Arial, sans-serif;
@@ -661,6 +662,9 @@ a.icons:hover {
   justify-content: center;
   text-align: center;
 }
+.faq-gotcall p{
+  padding-bottom: 20px;
+}
 .faq-gotcall img {
   margin-top: 20px;
 }
@@ -1151,7 +1155,9 @@ nested pages-------------- */
 .n-service-box h2{
   font-size: 1.7rem;
   font-weight: 600;
-
+}
+.n-service-box p{
+  padding-bottom: 20px;
 }
 
 .n-service-box img{
