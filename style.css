@@ -933,11 +933,13 @@ nested pages-------------- */
 
 
 .cont-big-img{
-  width: 80%;
+  /* width: 80%; */
   margin: auto;
   /* padding: 30px 0; */
   display: flex;
   justify-content: space-between;
+  padding: 0vw 18vw;
+ 
 
 }
 
