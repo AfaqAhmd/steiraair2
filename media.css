@@ -520,9 +520,39 @@
       margin-bottom: 6vw;
     }
 
+/* -----contact page */
+
+    .contact-main{
+      display: flex;
+      flex-direction: column;
+      width: 80vw;
+      padding: 6vw 2vw;
+      margin: auto;
+    }
+      
+      
+    .contact-address{
+      width: 100%;
+      padding: 0 2vw;
+    }
+
     .contact-form {
-      padding: 10vw 4vw;
+      padding: 2vw 2vw;
+      width: 100%;
   }
+
+      .cont-form{
+        width: 100%;
+      }
+
+      .address {
+        /* display: flex;
+        flex-direction: column; */
+        margin: 40px 0;
+      }
+
+
+
 
   /* cmms like blog */
   .cmms-section {
