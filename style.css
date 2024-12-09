@@ -877,7 +877,7 @@ nested pages-------------- */
 .cont-banner-upper {
   text-align: center;
   background: #d9d9d9;
-  padding: 30px 50px;
+  padding: 30px 10vw;
 }
 
 .cont-banner-upper h2 {
@@ -899,7 +899,7 @@ nested pages-------------- */
   background-color: #5aa445;
   display: flex;
   flex-direction: row;
-    color: white;
+    color: black;
 }
 .indoor-cont{
   width: 50%;
@@ -967,7 +967,7 @@ nested pages-------------- */
 .cont-banner {
   text-align: center;
   /* background-color: #61cf70; */
-  padding: 30px 50px;
+  padding: 30px 10vw;
 }
 
 .cont-banner h2 {
@@ -990,8 +990,8 @@ nested pages-------------- */
 /* ----------content banner green */
 .cont-banner-green {
   text-align: center;
-  background-color: #61cf70;
-  padding: 30px 50px;
+  background-color: #5aa445;
+  padding: 30px 10vw;
 }
 
 .cont-banner-green h2 {
