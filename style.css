@@ -737,9 +737,7 @@ a.icons:hover {
 
 /* contact us page------------------------------ */
 .contact-address {
-  padding-top: 50px;
-  width: 80%;
-  margin: auto;
+  width: 40%;
 }
 
 .address {
@@ -756,8 +754,9 @@ a.icons:hover {
 }
 
 .contact-form {
-  background-color: #f6f7f9;
-  padding: 50px 150px;
+  width: 60%;
+  /* background-color: #f6f7f9; */
+  
 }
 .contact-form h5 {
   color: #659c08;
@@ -766,6 +765,15 @@ a.icons:hover {
 .cont-form {
   margin-top: 30px;
 }
+
+.contact-main{
+ display: flex;
+ flex-direction: row;
+ width: 80%;
+ margin: auto;
+ padding: 50px 0;
+}
+
 
 /* residential
 nested pages-------------- */
@@ -1149,11 +1157,11 @@ nested pages-------------- */
   padding-top: 20px;
 }
 .n-service-box{
-  width: 450px;
+  width: 350px;
   text-align: center;
 }
 .n-service-box h2{
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 .n-service-box p{
@@ -1300,10 +1308,10 @@ nested pages-------------- */
 .blog-card p {
   margin: 5px 0;
   color: #555;
-  font-size: 14px;
+  font-size: 16px;
   text-overflow: ellipsis;
-  white-space: nowrap;
-  overflow: hidden;
+  /* white-space: nowrap; */
+  /* overflow: hidden; */
 }
 .blog-card a {
   text-decoration: none;
@@ -1312,4 +1320,5 @@ nested pages-------------- */
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
+
 
