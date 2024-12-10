@@ -418,7 +418,7 @@
     }
 
     .cont-banner {
-    padding: 2vw 2vw;
+    padding: 4vw 2vw;
     }
     .cont-banner h2 {
       font-size: 1.5rem;
@@ -465,6 +465,7 @@
       flex-direction: column;
       justify-content: center;
       margin: auto;
+      padding: 2vw 0
     }
 
     .cont-header-color-nested{
@@ -472,9 +473,10 @@
       margin: auto;
     }
     .cont-header-color-nested h2{
-      font-size: 1.7rem;
+      font-size: 1.5rem;
       color: white;
       padding-top: 9vh;
+      padding-bottom: 2vh;
       text-align: center;
     }
 
@@ -490,6 +492,7 @@
 
     .before-after-box {
       width: 80%;
+      margin: auto;
     }
 
     .indoor-cont-points {
@@ -502,6 +505,7 @@
     }
     .indoor-cont{
       width: 100%;
+      padding: 0 3vw;
     }
     .indoor-cont2{
       width: 100%;
