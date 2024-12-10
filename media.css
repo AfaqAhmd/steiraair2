@@ -546,15 +546,22 @@
     .contact-main{
       display: flex;
       flex-direction: column;
-      width: 80vw;
-      padding: 10vw 2vw;
+      width: 100%;
+      padding: 15vw 2vw;
       margin: auto;
     }
       
       
     .contact-address{
       width: 100%;
-      padding: 0 2vw;
+    }
+    
+    .address {
+      /* margin: 40px 0; */
+      padding: 0;
+    }
+    .address i {
+      font-size: 2rem;
     }
 
     .contact-form {
@@ -566,11 +573,6 @@
         width: 100%;
       }
 
-      .address {
-        /* display: flex;
-        flex-direction: column; */
-        margin: 40px 0;
-      }
 
 
 
