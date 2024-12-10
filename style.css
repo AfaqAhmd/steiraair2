@@ -744,7 +744,7 @@ a.icons:hover {
   display: flex;
   margin: 40px 30px;
 }
-.address i{
+.contact-address i{
   font-size: 3rem;
   color: #5aa445;
   vertical-align: middle;
@@ -752,13 +752,17 @@ a.icons:hover {
 
 .address h2 {
   margin-left: 20px;
+  font-size: 1.5rem;
 }
 
 .sub-addr {
-  margin-left: 85px;
+  margin-left: 25px;
   font-weight: 600;
+  display: flex;
 }
-
+/* .sub-addr p {
+  margin-left: 2px;
+} */
 .contact-form {
   width: 60%;
   /* background-color: #f6f7f9; */
