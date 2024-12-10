@@ -744,13 +744,18 @@ a.icons:hover {
   display: flex;
   margin: 40px 30px;
 }
+.address i{
+  font-size: 3rem;
+  color: #5aa445;
+}
 
 .address h2 {
   margin-left: 20px;
 }
 
 .sub-addr {
-  margin-left: 60px;
+  margin-left: 85px;
+  font-weight: 600;
 }
 
 .contact-form {
