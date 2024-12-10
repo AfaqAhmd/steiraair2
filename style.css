@@ -535,7 +535,7 @@ a.icons:hover {
 }
 
 .book-consult {
-  margin: 30px 0;
+  /* margin: 30px 0; */
   /* padding: 50px 150px; */
   padding: 50px 9vw;
   background-color: #f6f7f9;
@@ -747,6 +747,7 @@ a.icons:hover {
 .address i{
   font-size: 3rem;
   color: #5aa445;
+  vertical-align: middle;
 }
 
 .address h2 {
