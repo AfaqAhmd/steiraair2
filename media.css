@@ -508,6 +508,10 @@
       height: 300px;
     }
 
+    .indoor-cont2 iframe{
+      width: 100%;
+    }
+
     .indoor-cont img{
       padding-top: 3vh;
     }
