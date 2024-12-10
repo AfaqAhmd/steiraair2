@@ -899,7 +899,8 @@ nested pages-------------- */
   background-color: #5aa445;
   display: flex;
   flex-direction: row;
-    color: black;
+  color: black;
+  justify-content: space-between;
 }
 .indoor-cont{
   width: 50%;
@@ -913,6 +914,13 @@ nested pages-------------- */
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.indoor-cont2{
+  width: 50%;
+  align-items: center;
+  text-align: center;
+}
+
 
 .indoor-cont-points h2 {
   font-size: 2rem;
