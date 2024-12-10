@@ -498,6 +498,7 @@
     .indoor-cont-points {
       display: flex;
       flex-direction: column;
+      width: 100%;
       padding: 2vw 3vw;
     }
     .indoor-cont-points h2 {
