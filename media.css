@@ -570,6 +570,9 @@
     .address i {
       font-size: 2rem;
     }
+    .sub-addr p {
+      text-align: center;
+    }
 
     .contact-form {
       padding: 15vw 2vw;
