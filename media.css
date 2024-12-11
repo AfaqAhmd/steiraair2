@@ -567,6 +567,10 @@
       /* margin: 40px 0; */
       padding: 0;
     }
+
+    .address h2 {
+      font-size: 1.2rem;
+    }
     .address i {
       font-size: 2rem;
     }
