@@ -103,6 +103,11 @@ a.icons:hover {
   color: #659c08;
 }
 
+.nav-bar ul li a.active {
+  color: #659c08;
+}
+
+
 .nav-bar ul li .dropdown {
   display: none;
   position: absolute;

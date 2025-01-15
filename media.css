@@ -114,6 +114,12 @@
         padding: 7px;
         display: block;
       }
+      .mobile-nav-links ul li a:hover {
+        color: #659c08;
+      }
+      .mobile-nav-links ul li a.active {
+        color: #659c08;
+      }
     
       .mobile-nav-links.active {
         display: block; /* Show navigation when active */
