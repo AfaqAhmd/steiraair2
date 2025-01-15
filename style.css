@@ -672,13 +672,16 @@ a.icons:hover {
 .service-area {
   padding: 40px 20px;
   background-color: #cde99f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .service-area-main {
   display: flex;
-  justify-content: space-between;
-  gap: 40px;
-  width: 80%;
-  margin: auto;
+  justify-content: center;
+  /* gap: 40px; */
+  /* width: 80%; */
+  /* margin: auto; */
 }
 .service-area p {
   text-align: center;
@@ -690,17 +693,18 @@ a.icons:hover {
   text-align: center;
 }
 
-.service-area-box {
+/* .service-area-box {
   width: 35vw;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   gap: 20px;
-}
+} */
 
 .service-area-img{
-  width: 40%;
+  width: 100%;
 }
+
 .service-area-img img {
   width: 100%;
   transition: transform 0.5s ease-in-out; /* Smooth transition */
