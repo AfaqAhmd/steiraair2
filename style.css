@@ -157,10 +157,12 @@ a.icons:hover {
   border-radius: 20px;
   font-weight: bold;
   transition: background-color 0.3s;
+  border: 0.5px solid #5aa445;
 }
 
 .btn-round:hover {
   background-color: #003a59;
+  border: 0.5px solid #003a59;
   color: #fff;
 }
 
