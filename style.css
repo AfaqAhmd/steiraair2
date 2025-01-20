@@ -531,11 +531,13 @@ a.icons:hover {
   font-size: 20px;
   font-weight: bold;
   transition: background-color 0.3s;
+  border: 0.5px solid #5aa445;
 }
 
 .btn-square:hover {
   color: #fff;
   background-color: #003a59;
+  border: 0.5px solid #003a59;
 }
 
 .d-color {
