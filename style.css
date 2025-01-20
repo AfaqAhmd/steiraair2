@@ -570,6 +570,9 @@ a.icons:hover {
   justify-content: space-around;
   flex-wrap: wrap;
 }
+.frm input:focus::placeholder {
+  color: transparent;
+  }
 
 /* .book-consult .info {
   display: flex;
@@ -798,6 +801,10 @@ a.icons:hover {
  margin: auto;
  padding: 50px 0;
 }
+
+.form-control:focus::placeholder {
+  color: transparent;
+  }
 
 
 /* residential
