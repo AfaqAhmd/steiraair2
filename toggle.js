@@ -14,3 +14,11 @@
         link.classList.remove('active');
     }
 });
+
+
+//calendly calling on different link/buttons
+var calendyBtn = document.getElementById('calendlyBtn');
+calendyBtn.addEventListener("click", function() {
+Calendly.initPopupWidget({ url: 'https://calendly.com/steiraair/steiraairmeeting?back=1' });
+  return false;
+  });
