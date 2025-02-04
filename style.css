@@ -859,7 +859,7 @@ nested pages-------------- */
 .enzyme-video {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 500px;
   height: auto;
   border-radius: 15px;
   aspect-ratio: 16 / 9; 
