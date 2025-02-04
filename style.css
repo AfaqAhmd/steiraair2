@@ -1106,6 +1106,7 @@ nested pages-------------- */
   width: 100%;
   height: 500px;
   border-radius: 15px;
+  rotate: 90deg;
 }
 
 .h2-center {
