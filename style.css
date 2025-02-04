@@ -856,6 +856,29 @@ nested pages-------------- */
   background-color: #5aa445;
 }
 
+.enzyme-video {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  border-radius: 15px;
+  aspect-ratio: 16 / 9; 
+  overflow: hidden;
+  /* border: 3px solid white; */
+  background-color: #000;
+}
+.enzyme-video video {
+  /* position: absolute; */
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9; 
+  object-fit: contain;
+  object-position: center;
+  /* transform: rotate(90deg); */
+  z-index: 9;
+  opacity: 1 !important;
+}
+
 .cont-with-img-main h2 {
   font-size: 2rem;
 }
